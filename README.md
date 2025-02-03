@@ -17,7 +17,7 @@
 Откройте терминал и выполните следующие команды:
 
 ```bash
-git clone https://github.com/Sergey37777/.git
+git clone https://github.com/Sergey37777/rostel.git
 cd your-repo-name
 ```
 
